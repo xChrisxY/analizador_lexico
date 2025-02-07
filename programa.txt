@@ -1,0 +1,13 @@
+x = 10.4;
+if (x > =5) {
+    y = x + 1 ;
+} else {
+    y = x - 1;
+    gato = 10;
+    perro 
+    lorotama 
+    
+    {odecadenagrandoteparaverquesucede}
+    # comentarios
+    """ hola """
+}
